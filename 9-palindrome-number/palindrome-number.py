@@ -4,10 +4,15 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        if x < 0 or (x % 10 == 0 and x != 0):
+        a=x
+        rev=0
+        if x<0:
             return False
-        reverted = 0
-        while x > reverted:
-            reverted = reverted * 10 + x % 10
-            x //= 10
-        return x == reverted or x == reverted // 10
+        while x>0:
+            rev=rev*10+x%10
+            x=x//10
+        if rev==a:
+            return True
+        else:
+            return False
+            
