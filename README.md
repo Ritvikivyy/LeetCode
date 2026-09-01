@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ritvikivyy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0713-subarray-product-less-than-k](https://github.com/Ritvikivyy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Ritvikivyy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ritvikivyy/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ritvikivyy/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
